@@ -1,4 +1,4 @@
-# Black-Jack-Game
+# Blackjack Game
 A Blackjack game python program
 
 
