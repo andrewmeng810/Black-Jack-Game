@@ -1,2 +1,4 @@
 # Black-Jack-Game
-A Black Jack game created by python
+A Blackjack game python program
+
+
